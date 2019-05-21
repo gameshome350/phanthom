@@ -79,4 +79,4 @@ message.channel.send(`** #${args}**`); // محطوط # عشان محد يستخ�
 
 ///////////////////
 //////////////////
-client.login('process.env.BOT_TOKEN')
+client.login(process.env.BOT_TOKEN)
